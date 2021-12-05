@@ -29,3 +29,6 @@ cv POSITION value
 expr POSITION
 ```
 - Evaluates and prints value of expression at position
+
+## Issues
+- Many
